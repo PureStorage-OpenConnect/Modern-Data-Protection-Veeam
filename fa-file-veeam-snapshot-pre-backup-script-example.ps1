@@ -1,4 +1,15 @@
-# This script comes with no warranty or support, either implied or otherwise, and anyone who chooses to use it accepts full responsibility for any outcomes
+<#  Disclaimer
+    The sample module and documentation are provided AS IS and are not supported by
+	the author or the author's employer, unless otherwise agreed in writing. You bear
+	all risk relating to the use or performance of the sample script and documentation.
+	The author and the author’s employer disclaim all express or implied warranties
+	(including, without limitation, any warranties of merchantability, title, infringement
+	or fitness for a particular purpose). In no event shall the author, the author's employer
+	or anyone else involved in the creation, production, or delivery of the scripts be liable
+	for any damages whatsoever arising out of the use or performance of the sample script and
+	documentation (including, without limitation, damages for loss of business profits,
+	business interruption, loss of business information, or other pecuniary loss), even if
+	such person has been advised of the possibility of such damages. #>
 
 # This is an example pre-backup script to provide some framework for allowing Veeam backup of FlashArray File Managed Directories from snapshot
 # Backing up shares/exports via snapshot provides for a consistent point in time and works around locked/open file issues
